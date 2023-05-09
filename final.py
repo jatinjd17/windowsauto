@@ -136,7 +136,7 @@ def RunScript():
 
         bot.get('https://outlook.live.com/mail/0/')
 
-        print("Outlook Done!!!!!!")
+        print("Outlook Done!!!!!!!!!!!!!")
 
         bot.execute_script("window.open('');")
 
